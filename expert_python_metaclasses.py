@@ -287,5 +287,3 @@ class Family:
 
 
 sh = Family(10)
-
-print
